@@ -1,0 +1,6 @@
+name,address,zipcode,city,cityname,protected,phone,email,fax,enddate,employees,addressco,industrycode,industrydesc
+HOLLES HOLDING ApS,Strandvejen 162,3070,Snekkersten,,False,,,,,2,IMOVI A/S,642020,Ikke-finansielle holdingselskaber
+MANNER HOLDING ApS,Gammel Strandvej 199C,3060,Espergærde,,False,,,,,0,Lars Holstein,642010,Finansielle holdingselskaber
+E. SÆTHER HOLDING A/S,Ryttermarken 11,3520,Farum,,False,44999099,peter.brolev@saether.dk,44998999,,1,,642020,Ikke-finansielle holdingselskaber
+RYVANG INVEST A/S,Baunegårdsvej 4,2820,Gentofte,,True,,,,,2,,642010,Finansielle holdingselskaber
+T.D. ApS,Østbanegade 123,2100,København Ø,,True,,kek@ntadvokater.dk,,,1,NT Advokater,642020,Ikke-finansielle holdingselskaber
